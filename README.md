@@ -1,0 +1,2 @@
+# .github
+Medica AI projects
