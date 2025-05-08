@@ -1,5 +1,4 @@
-# .github
-Medica AI projects
+# Medica AI projects
 
 Services Health:
 
